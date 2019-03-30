@@ -6,7 +6,7 @@ public class Samochod {
 
        int speed;
        int maxSpeed;
-
+       int kola;
 
 
 
